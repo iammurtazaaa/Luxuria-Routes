@@ -1,0 +1,40 @@
+.nav-link,#nav-items{
+    color: white;
+}
+
+.nav-link:hover {
+    color: rgb(96, 200, 193);
+}
+#nav-items:hover{
+    color: rgb(96, 200, 193);
+}
+
+span{
+    color: rgb(255, 30, 30);
+}
+#header{
+    margin-top: 150px;
+}
+video{
+    width: 400px;
+    
+}
+#play-btn{
+    cursor: pointer;
+}
+.c-item{
+    height: 480px;
+
+}
+.c-img{
+    height: 100%;
+    object-fit: cover;
+    /* filter: brightness(0.6); */
+
+}
+#changecolor{
+    color: white;
+}
+#image-size{
+    height: 500px;
+}
